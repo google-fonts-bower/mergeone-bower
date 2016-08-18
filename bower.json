@@ -1,0 +1,17 @@
+{
+    "name": "mergeone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Kosal Sen"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/mergeone-bower.git"
+    },
+    "description": "Merge One font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
